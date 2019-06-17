@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <button className="btn btn-danger">Lwam</button>
+        <button className="btn btn-danger">Goats</button>
       </header>
     </div>
   );
