@@ -50,4 +50,4 @@ const goats = [
     color: 'black',
   },
 ];
-export default { goats };
+export default goats;
