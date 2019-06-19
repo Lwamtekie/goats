@@ -14,7 +14,7 @@ class Goat extends React.Component {
     return (
       <div className="Goat col-3">
         <div className="card">
-          <img src={goat.imageUrl} className="card-img-top" alt="..." />
+          <img src={goat.imageurl} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">{goat.name}</h5>
             <p className="card-text">{goat.favPose}</p>
